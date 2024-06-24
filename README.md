@@ -39,8 +39,9 @@ NOTE: The only dependency for this plugin to work is jQuery library.
 </html>
 ```
 
-> ![NOTE]\
-> There are two js files, if you do not want the various easing effects, you can use the `scoot.noeasing.js`
+> [!NOTE]\
+> There are 2 JavaScript files, if you do not want the various easing effects, you can use the `scoot.noeasing.js`
+
 
 ## Parameters
 

@@ -1,0 +1,30 @@
+{
+    "name": "scooter",
+    "title": "Scooter",
+    "description": "Scrolling Animation jQuery Plugin",
+    "keywords": [
+        "scooter",        
+        "scrollanimate",
+        "scroll",
+        "animation",
+        "scrollto"
+    ],
+    "version": "1.0",
+    "author": {
+        "name": "Selim Waly",
+        "email": "selimwalyy@gmail.com",
+        "url": "mailto:selimwalyy@gmail.com"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/SelimWaly/Scooter.js/blob/master/LICENSE"
+        }
+    ],
+    "bugs": "https://github.com/SelimWaly/Scooter/issues",
+    "homepage": "http://github.com/SelimWaly/Scooter",
+    "docs": "https://github.com/SelimWaly/Scooter/blob/master/README.md",
+    "dependencies": {
+    "jquery": ">=1.5"
+    }
+}
